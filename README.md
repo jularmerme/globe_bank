@@ -1,4 +1,4 @@
-# globe_bank
+# Globe Bank APP
 
 Basic Site built to practice:
 
